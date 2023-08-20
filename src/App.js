@@ -1,7 +1,7 @@
 import React from "react";
 
 function App() {
-  return <div>React Template</div>;
+  return <div>Reece App Frontend</div>;
 }
 
 export default App;
